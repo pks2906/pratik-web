@@ -109,6 +109,12 @@ export const projects = [
 export const testimonials = [
   {
     quote:
+      "Working with Pratik has been an absolute pleasure. He brings a diverse skill set to the table, and his ability to seamlessly collaborate makes every project not just productive, but genuinely fun. He's one of those developers who’s always active, responsive, and eager to push boundaries ,making teamwork feel effortless. I'd happily work with him again any day!",
+    name: "Dev Chaudhary",
+    title: "Product Design Intern - GeeksforGeeks",
+  },
+  {
+    quote:
       "With Pratik as a teammate, the work becomes easier. He's always available, he has some of the best ideas and knows how to express them well. He has sound knowledge of good UI/UX design and it's implementation. It was fun working with him at Vyalinks and Sarvatva.",
     name: "Akshat Jha",
     title: "Software Engineer 1 - ClearTouch",
@@ -119,24 +125,7 @@ export const testimonials = [
     name: "Iteesha Agrawal",
     title: "Founder | Creative Director, Sarvatva",
   },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
+  
 ];
 
 export const companies = [
@@ -163,6 +152,30 @@ export const companies = [
     name: "stream",
     img: "/s.svg",
     nameImg: "/streamName.svg",
+  },
+  {
+    id: 5,
+    name: "docker.",
+    img: "/dock.svg",
+    nameImg: "/dockerName.svg",
+  },
+  {
+    id: 5,
+    name: "docker.",
+    img: "/dock.svg",
+    nameImg: "/dockerName.svg",
+  },
+  {
+    id: 5,
+    name: "docker.",
+    img: "/dock.svg",
+    nameImg: "/dockerName.svg",
+  },
+  {
+    id: 5,
+    name: "docker.",
+    img: "/dock.svg",
+    nameImg: "/dockerName.svg",
   },
   {
     id: 5,
